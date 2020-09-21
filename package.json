@@ -1,0 +1,22 @@
+{
+  "name": "framed",
+  "version": "1.0.0",
+  "description": "Dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Michie1001/framed.git"
+  },
+  "author": "Michie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Michie1001/framed/issues"
+  },
+  "homepage": "https://github.com/Michie1001/framed#readme",
+  "dependencies": {
+    "composer": "^4.1.0"
+  }
+}
