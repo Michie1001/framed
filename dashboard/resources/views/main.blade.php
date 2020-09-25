@@ -11,3 +11,13 @@ Sections include:
 -Clock
 -News 
 -Fun fact like Curiosity Stream -->
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Framed</title>
+</head>
+<body>
+
+</body>
+</html>
