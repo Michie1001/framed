@@ -19,7 +19,7 @@ Sections include:
 </head>
 <body>
 	<div class="background">
-		<div class="gridarea">
+		<div class="gridarea"> {{--dashboard grid--}}
             <figure class="gridarea__item gridarea__item-1">
                 <img src="img/gal-1.jpeg" alt="Gridarea image" class="gridarea__img">
             </figure>
