@@ -27,30 +27,30 @@ Sections include:
 <body>
 	<div class="background">
 		<div class="gridarea"> {{--dashboard grid--}}
-            <figure class="gridarea__item gridarea__item-1">
+            <div class="gridarea__item gridarea__item-1">
                 <img src="img/gal-1.jpeg" alt="Gridarea image" class="gridarea__img">
-            </figure>
-            <figure class="gridarea__item gridarea__item-2">
+            </div>
+            <div class="gridarea__item gridarea__item-2">
                 <img src="img/gal-2.jpeg" alt="Gridarea image" class="gridarea__img">
-            </figure>
-            <figure class="gridarea__item gridarea__item-3">
+            </div>
+            <div class="gridarea__item gridarea__item-3">
                 <img src="img/gal-3.jpeg" alt="Gridarea image" class="gridarea__img">
-            </figure>
-            <figure class="gridarea__item gridarea__item-4">
+            </div>
+            <div class="gridarea__item gridarea__item-4">
                 <img src="img/gal-4.jpeg" alt="Gridarea image" class="gridarea__img">
-            </figure>
-            <figure class="gridarea__item gridarea__item-5">
+            </div>
+            <div class="gridarea__item gridarea__item-5">
                 <img src="img/gal-5.jpeg" alt="Gridarea image" class="gridarea__img">
-            </figure>
-            <figure class="gridarea__item gridarea__item-6">
+            </div>
+            <div class="gridarea__item gridarea__item-6">
                 <img src="img/gal-6.jpeg" alt="Gridarea image" class="gridarea__img">
-            </figure>
-            <figure class="gridarea__item gridarea__item-7">
+            </div>
+            <div class="gridarea__item gridarea__item-7">
                 <img src="img/gal-7.jpeg" alt="Gridarea image" class="gridarea__img">
-            </figure>
-            <figure class="gridarea__item gridarea__item-8">
+            </div>
+            <div class="gridarea__item gridarea__item-8">
                 <img src="img/gal-8.jpeg" alt="Gridarea image" class="gridarea__img">
-            </figure>            
+            </div>            
         </div>
 	</div>
 </body>
